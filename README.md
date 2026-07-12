@@ -25,7 +25,7 @@ The IPL Analytics Dashboard (2008-2025) is a comprehensive data analytics projec
 ---
 
 ### Project Structure
-`text
+`''text
 ├── data/
 │   ├── ipl_matches_data.csv        # Match metadata, dates, venues, results
 │   ├── ball_by_ball_data.csv       # Ball-by-ball events, runs, extras, dismissals
