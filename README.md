@@ -21,7 +21,9 @@ The IPL Analytics Dashboard (2008-2025) is a comprehensive data analytics projec
 1. Historical Performance Tracking: Evaluates how team win rates, formats, and strategies have evolved from 2008 to 2025.
 2. Granular Player Metrics: Drill-down analysis of batter and bowler performances using ball-by-ball granularity.
 3. Strategic Decision Support: Uncovers the hidden impact of toss decisions and venues on final match outcomes.
----
+
+
+![Image alt](https://github.com/Riyaz278hs/IPL-DASHBOARD-2008-2025-/blob/main/IPL_Dashboard.jpg)
 
 
 
