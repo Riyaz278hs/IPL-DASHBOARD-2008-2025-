@@ -47,6 +47,9 @@ The project's relational architecture handles four main structured datasets cont
 1. MS Excel [Data Cleaning]: Utilized for visual column profiling, validation checks, and building interactive final dashboard views powered by pivot tables, custom charts, and slicers.
 2. SQL Query [Data Analysis]: Employed to write fast relational multi-table JOIN operations, aggregate deep stats from large multi-million row datasets, and query career performance milestones.
 3. Python (Pandas) [ETL Engine]: Leveraged to programmatic bypass file loading anomalies (latin1 streams), handle missing data fields, and perform automated preprocessing steps.
+4. BI Tool: Power BI Desktop
+5. Data Transformation: Power Query (ETL, Data Cleaning, Null Handling)
+6. Modeling: DAX (Data Analysis Expressions) for custom KPIs and measures
 
 ---
 
@@ -65,6 +68,29 @@ The project's relational architecture handles four main structured datasets cont
 
 ---
 
+## 🚀 Results
 
+* Comprehensive Season Tracking: Successfully modeled and visualized data across 17+ seasons, detailing championship trends, boundaries, and venue dynamics.
+* Top Performance Metrics: Dynamically isolates individual milestones, such as Shubman Gill's 2023 Orange Cap run (890 runs, 84 fours) and Mohammed Shami's Purple Cap dominance (28 wickets).
+* Boundaries Analytics: Tracks historical power-hitting trends, showcasing peak seasons like 2023 with 1,110 sixes and 2,160 fours across 74 matches.
+* Automated Points Table: Built a dynamic, real-time points table calculating Wins, Losses, Net Run Rate (NRR), and Total Points per season.
 
+---
+
+## 💡 Strategic Recommendations
+
+* Data-Driven Auction Scouting: Use historical performance thresholds (like Orange/Purple cap trajectories) to optimize player acquisition budgets and predict future consistency.
+* Venue-Specific Strategies: Analyze team performance across the 12+ unique venues to optimize team composition (e.g., spin vs. pace heavy line-ups) based on ground-specific boundary data.
+* Anchoring vs. Power Hitting: Balance team structures by contrasting high-volume boundary hitters (e.g., F du Plessis with 36 sixes) with high-average anchors to maximize projectable team totals.
+* Toss & Match Condition Modeling: Integrate toss decision patterns to recommend optimal bat/bowl choices depending on specific venue histories.
+
+---
+
+## ⚠️ Project Limitations
+
+* Lack of Live/In-Play Data: The current dashboard relies on historical post-match datasets and does not support real-time, ball-by-ball live match tracking.
+* External Variables Omitted: Strategic insights exclude crucial external factors such as player injuries, pitch degradation reports, and weather conditions.
+* Data Granularity: The modeling primarily focuses on aggregate seasonal stats rather than micro-situations (e.g., performance specifically in the death overs or powerplay).
+
+---
 
