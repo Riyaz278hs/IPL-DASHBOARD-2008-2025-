@@ -26,7 +26,7 @@ The IPL Analytics Dashboard (2008-2025) is a comprehensive data analytics projec
 2. Granular Player Metrics: Drill-down analysis of batter and bowler performances using ball-by-ball granularity.
 3. Strategic Decision Support: Uncovers the hidden impact of toss decisions and venues on final match outcomes.
 
-![Image alt](https://github.com/Riyaz278hs/IPL-DASHBOARD-2008-2025-/blob/main/IPL_Dashboard.jpg)
+![Image alt](
 
 
 
@@ -64,10 +64,6 @@ The project's relational architecture handles four main structured datasets cont
 3. Tactical Strategy Mapping: Mapped historical shifts in toss preferences (field vs bat) against night-game coordinates to evaluate how dew factors influence strategies.
 
 ---
-
-### Data Analysis
-
-Below is an optimized relational SQL script demonstrating how the system connects granular ball-by-ball micro-events to master player attributes to isolate the all-time top run-scorers in IPL history:
 
 
 
