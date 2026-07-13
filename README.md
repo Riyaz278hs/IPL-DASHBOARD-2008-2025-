@@ -12,7 +12,7 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Strategic Recommendations](#strategic-Recommendations)
+- [Strategic Recommendations](#Strategic-Recommendations)
 - [Results](#Results)
 
 
