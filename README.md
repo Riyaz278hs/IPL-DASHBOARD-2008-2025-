@@ -13,7 +13,7 @@
 - [Data Sources](#data-sources)
 - [Tools](#tools)
 - [Strategic Recommendations](#strategic-Recommendations)
-- [Result](#Result)
+- [Results](#Results)
 
 
 ---
