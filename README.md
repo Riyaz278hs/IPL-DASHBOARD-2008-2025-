@@ -68,7 +68,7 @@ The project's relational architecture handles four main structured datasets cont
 
 ---
 
-## 🚀 Results
+## 🚀Results
 
 * Comprehensive Season Tracking: Successfully modeled and visualized data across 17+ seasons, detailing championship trends, boundaries, and venue dynamics.
 * Top Performance Metrics: Dynamically isolates individual milestones, such as Shubman Gill's 2023 Orange Cap run (890 runs, 84 fours) and Mohammed Shami's Purple Cap dominance (28 wickets).
@@ -77,7 +77,7 @@ The project's relational architecture handles four main structured datasets cont
 
 ---
 
-## 💡 Strategic Recommendations
+## 💡Strategic Recommendations
 
 * Data-Driven Auction Scouting: Use historical performance thresholds (like Orange/Purple cap trajectories) to optimize player acquisition budgets and predict future consistency.
 * Venue-Specific Strategies: Analyze team performance across the 12+ unique venues to optimize team composition (e.g., spin vs. pace heavy line-ups) based on ground-specific boundary data.
